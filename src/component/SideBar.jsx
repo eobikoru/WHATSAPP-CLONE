@@ -35,10 +35,11 @@ function SideBar() {
   </div>
 </div>
 <div className="sidebar__chats">
-  <SidebarChat/>
-  <SidebarChat/>
-  <SidebarChat/>
-  <SidebarChat/>
+  <SidebarChat pic="./image/iii.jpeg"  name="Daniel react" mess="finally finished the build" />
+  <SidebarChat  pic="./image/eme.jpeg" name="Node react" mess="did you do it " />
+  <SidebarChat pic="./image/ooo.jpeg" name="react" mess="lsat time i checked" />
+  <SidebarChat pic="./image/bg.jpeg" name="Blinq" mess="enong id fjghgj" />
+  <SidebarChat pic="./image/ooo.jpeg" name="react" mess="lsat time i checked" />
 </div>
    </div>
   )
